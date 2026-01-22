@@ -6,9 +6,8 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "User Management",
+      title: "User Management API สำหรับจัดการผู้ใช้",
       version: "1.0.0",
-      description: "API สำหรับจัดการผู้ใช้",
     },
     servers: [
       {
